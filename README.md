@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there 👋
 Im an Electrical & Electronics Engineer who worked as an Electrical Maintenance Engineer & Service Engineer in the industry.
 
 Coding has been more than just a hobby for me for many years.
