@@ -1,8 +1,8 @@
-Hi there 👋
+# Hi there 👋
 
-Im an Electrical & Electronics Engineer who worked as an Electrical Maintenance Engineer & Service Engineer in the industry.
+## Im an Electrical & Electronics Engineer who worked as an Electrical Maintenance Engineer & Service Engineer in the industry.
 
-Coding has been more than just a hobby for me for many years.
+## Coding has been more than just a hobby for me for many years.
 ### Now, Im trying to turn my hobby into my profession. (!)
 
 
